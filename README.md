@@ -7,6 +7,15 @@ Prisma, NextAuth, and the Anthropic AI SDK.
 > Portfolio project by [@jaronwright](https://github.com/jaronwright). See
 > [CLAUDE.md](./CLAUDE.md) for architecture notes.
 
+
+## Screenshots
+
+![Login — desktop](./public/screenshots/login-desktop.png)
+
+<p align="center">
+  <img src="./public/screenshots/login-mobile.png" alt="Login — mobile" width="300" />
+</p>
+
 ## Features
 
 - 💬 **Streaming chat** via `@ai-sdk/anthropic`
